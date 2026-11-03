@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,payment_terms_days,supplier_status
+SUPP001,Vienna Office Equipment Supply GmbH,Austria,45,Active
+SUPP002,Frankfurt Commercial Appliances GmbH,Germany,45,Active
+SUPP003,Berlin Commercial Appliances GmbH,Germany,60,Active
+SUPP004,Frankfurt Electronics Wholesale GmbH,Germany,60,Active
+SUPP005,Rotterdam Electronics Wholesale B.V.,Netherlands,60,Active
+SUPP006,Munich Office Equipment Supply GmbH,Germany,60,Active
+SUPP007,Paris Office Equipment Supply SAS,France,30,Active
+SUPP008,Lyon Industrial Equipment Trading SAS,France,60,Inactive
+SUPP009,Amsterdam Industrial Equipment Trading B.V.,Netherlands,45,Active
+SUPP010,Rotterdam Industrial Equipment Trading B.V.,Netherlands,30,Active
+SUPP011,Lyon Commercial Appliances SAS,France,45,Active
+SUPP012,Vienna Industrial Equipment Trading GmbH,Austria,45,Active
+SUPP013,Frankfurt Office Equipment Supply GmbH,Germany,45,Active
+SUPP014,Rotterdam Office Equipment Supply B.V.,Netherlands,60,Active
+SUPP015,Berlin Electronics Wholesale GmbH,Germany,60,Active
+SUPP016,Munich Industrial Equipment Trading GmbH,Germany,30,Active
+SUPP017,Amsterdam Office Equipment Supply B.V.,Netherlands,30,Active
+SUPP018,Brussels Electronics Wholesale BV,Belgium,60,Active
+SUPP019,Hamburg Electronics Wholesale GmbH,Germany,45,Inactive
+SUPP020,Lyon Office Equipment Supply SAS,France,30,Active

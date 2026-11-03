@@ -1,0 +1,6 @@
+department_id,department_name,department_type
+DEPT001,Sales,Operating
+DEPT002,Procurement,Operating
+DEPT003,Operations,Operating
+DEPT004,Finance,Support
+DEPT005,Administration,Support

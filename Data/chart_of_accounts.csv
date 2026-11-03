@@ -1,0 +1,24 @@
+account_code,account_name,account_type,financial_statement,account_subcategory,normal_balance,cash_flow_category
+1000,Bank,Asset,Balance Sheet,Current Asset,Debit,Operating
+1100,Accounts Receivable,Asset,Balance Sheet,Current Asset,Debit,Operating
+1200,Inventory,Asset,Balance Sheet,Current Asset,Debit,Operating
+1300,Prepaid Expenses,Asset,Balance Sheet,Current Asset,Debit,Operating
+1500,"Property, Plant and Equipment",Asset,Balance Sheet,Non-Current Asset,Debit,Investing
+1590,Accumulated Depreciation,Asset,Balance Sheet,Non-Current Asset,Credit,Non-Cash
+2000,Accounts Payable,Liability,Balance Sheet,Current Liability,Credit,Operating
+2100,Accrued Expenses,Liability,Balance Sheet,Current Liability,Credit,Operating
+2200,VAT Payable,Liability,Balance Sheet,Current Liability,Credit,Operating
+3000,Share Capital,Equity,Balance Sheet,Equity,Credit,Financing
+3100,Retained Earnings,Equity,Balance Sheet,Equity,Credit,Non-Cash
+4000,Sales Revenue,Revenue,Income Statement,Operating Revenue,Credit,Operating
+4100,Sales Returns and Allowances,Revenue,Income Statement,Contra Revenue,Debit,Operating
+5000,Cost of Goods Sold,Expense,Income Statement,Cost of Sales,Debit,Operating
+5100,Salaries and Wages,Expense,Income Statement,Operating Expense,Debit,Operating
+5200,Rent Expense,Expense,Income Statement,Operating Expense,Debit,Operating
+5300,Utilities Expense,Expense,Income Statement,Operating Expense,Debit,Operating
+5400,Marketing Expense,Expense,Income Statement,Operating Expense,Debit,Operating
+5500,Transportation Expense,Expense,Income Statement,Operating Expense,Debit,Operating
+5600,Office and Administrative Expenses,Expense,Income Statement,Operating Expense,Debit,Operating
+5700,Depreciation Expense,Expense,Income Statement,Operating Expense,Debit,Non-Cash
+5800,Other Operating Expenses,Expense,Income Statement,Operating Expense,Debit,Operating
+5900,Bank Charges,Expense,Income Statement,Operating Expense,Debit,Operating

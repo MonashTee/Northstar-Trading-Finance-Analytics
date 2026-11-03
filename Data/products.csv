@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_of_measure,standard_selling_price,standard_purchase_cost,inventory_account_code,revenue_account_code,cogs_account_code,product_status
+PROD001,Business Laptop,Electronics & IT,Unit,539.24,372.13,1200,4000,5000,Inactive
+PROD002,Desktop Computer,Electronics & IT,Unit,1001.98,705.29,1200,4000,5000,Active
+PROD003,Computer Monitor,Electronics & IT,Unit,539.5,392.34,1200,4000,5000,Active
+PROD004,Wireless Keyboard,Electronics & IT,Unit,1351.98,1039.08,1200,4000,5000,Active
+PROD005,Wireless Mouse,Electronics & IT,Unit,1481.29,1033.04,1200,4000,5000,Active
+PROD006,Laser Printer,Electronics & IT,Unit,1115.51,829.27,1200,4000,5000,Active
+PROD007,Network Router,Electronics & IT,Unit,1635.32,1132.95,1200,4000,5000,Active
+PROD008,External Hard Drive,Electronics & IT,Unit,557.65,422.01,1200,4000,5000,Active
+PROD009,USB Flash Drive,Electronics & IT,Unit,1485.05,1193.79,1200,4000,5000,Active
+PROD010,Laptop Docking Station,Electronics & IT,Unit,788.1,633.16,1200,4000,5000,Active
+PROD011,Tablet Computer,Electronics & IT,Unit,1260.8,913.47,1200,4000,5000,Active
+PROD012,Webcam,Electronics & IT,Unit,912.65,687.65,1200,4000,5000,Active
+PROD013,Headset,Electronics & IT,Unit,485.79,360.52,1200,4000,5000,Inactive
+PROD014,Network Switch,Electronics & IT,Unit,891.79,625.15,1200,4000,5000,Active
+PROD015,Server Rack,Electronics & IT,Unit,642.64,472.09,1200,4000,5000,Active
+PROD016,Office Desk,Office Supplies,Unit,763.27,606.95,1200,4000,5000,Active
+PROD017,Ergonomic Office Chair,Office Supplies,Unit,566.35,406.82,1200,4000,5000,Active
+PROD018,Filing Cabinet,Office Supplies,Unit,917.33,696.27,1200,4000,5000,Active
+PROD019,Conference Table,Office Supplies,Unit,860.16,620.19,1200,4000,5000,Inactive
+PROD020,Bookshelf,Office Supplies,Unit,323.25,241.56,1200,4000,5000,Active
+PROD021,Desk Lamp,Office Supplies,Unit,836.77,686.53,1200,4000,5000,Active
+PROD022,Whiteboard,Office Supplies,Unit,184.71,145.77,1200,4000,5000,Active
+PROD023,Paper Shredder,Office Supplies,Unit,351.02,270.29,1200,4000,5000,Active
+PROD024,Storage Cabinet,Office Supplies,Unit,793.95,652.06,1200,4000,5000,Active
+PROD025,Meeting Room Chair,Office Supplies,Unit,612.24,474.73,1200,4000,5000,Active
+PROD026,Document Scanner,Office Supplies,Unit,278.24,217.27,1200,4000,5000,Active
+PROD027,Office Drawer Unit,Office Supplies,Unit,149.55,108.59,1200,4000,5000,Active
+PROD028,Reception Desk,Office Supplies,Unit,284.62,218.11,1200,4000,5000,Active
+PROD029,Notice Board,Office Supplies,Unit,529.52,433.89,1200,4000,5000,Active
+PROD030,Office Partition,Office Supplies,Unit,555.75,445.11,1200,4000,5000,Active
+PROD031,Electric Drill,Industrial Equipment,Unit,1757.28,1449.07,1200,4000,5000,Active
+PROD032,Industrial Generator,Industrial Equipment,Unit,260.74,193.9,1200,4000,5000,Active
+PROD033,Air Compressor,Industrial Equipment,Unit,3057.52,2384.89,1200,4000,5000,Active
+PROD034,Hydraulic Pump,Industrial Equipment,Unit,4847.03,3438.26,1200,4000,5000,Active
+PROD035,Welding Machine,Industrial Equipment,Unit,1150.25,950.85,1200,4000,5000,Active
+PROD036,Industrial Vacuum,Industrial Equipment,Unit,2468.59,1926.08,1200,4000,5000,Active
+PROD037,Power Saw,Industrial Equipment,Unit,1474.82,1023.25,1200,4000,5000,Active
+PROD038,Forklift,Industrial Equipment,Unit,3699.44,2962.88,1200,4000,5000,Active
+PROD039,Pallet Truck,Industrial Equipment,Unit,3059.73,2478.34,1200,4000,5000,Active
+PROD040,Industrial Pressure Washer,Industrial Equipment,Unit,4682.48,3396.43,1200,4000,5000,Active
+PROD041,Commercial Refrigerator,Commercial Appliances,Unit,1383.18,1057.17,1200,4000,5000,Active
+PROD042,Industrial Dishwasher,Commercial Appliances,Unit,874.84,702.07,1200,4000,5000,Active
+PROD043,Commercial Microwave,Commercial Appliances,Unit,1547.69,1127.95,1200,4000,5000,Active
+PROD044,Coffee Machine,Commercial Appliances,Unit,3009.78,2296.51,1200,4000,5000,Active
+PROD045,Water Dispenser,Commercial Appliances,Unit,405.23,325.3,1200,4000,5000,Active
+PROD046,Commercial Oven,Commercial Appliances,Unit,2169.01,1631.85,1200,4000,5000,Active
+PROD047,Ice Maker,Commercial Appliances,Unit,1583.82,1145.61,1200,4000,5000,Active
+PROD048,Display Freezer,Commercial Appliances,Unit,1808.03,1458.49,1200,4000,5000,Active
+PROD049,Commercial Blender,Commercial Appliances,Unit,1125.74,920.51,1200,4000,5000,Active
+PROD050,Food Warmer,Commercial Appliances,Unit,1224.37,847.39,1200,4000,5000,Active
